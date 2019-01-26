@@ -105,13 +105,13 @@
 ![image](https://github.com/liuhuanyong/IdealWordCloudKit/blob/master/image/jiangxi-keywords.jpg)
 
 # 总结
-1) 本项目针对目前开源软件中缺少根据用户自定义图像进行词频与关键词分析形成词云的现状,完成了一个基于python与wordcloud组件的可视化项目.
-2) 本项目支持用户本地文件,用户输入字符串,用户输入文本网址三种模式的词云生成接口
-3) 本项目支持用户对本地文件进行高频词展示和关键词展示,使用了常用的TFIDF算法,支持用户对展示的词数进行设定
-4) 使用Wordcloud和matplotlib的方式存在一定不足,如得到的图像清晰度不高等
+1) 本项目针对目前开源软件中缺少根据用户自定义图像进行词频与关键词分析形成词云的现状,完成了一个基于python与wordcloud组件的可视化项目.  
+2) 本项目支持用户本地文件,用户输入字符串,用户输入文本网址三种模式的词云生成接口  
+3) 本项目支持用户对本地文件进行高频词展示和关键词展示,使用了常用的TFIDF算法,支持用户对展示的词数进行设定  
+4) 使用Wordcloud和matplotlib的方式存在一定不足,如得到的图像清晰度不高等  
 
 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：
-1、我的github项目介绍：https://liuhuanyong.github.io
-2、我的csdn博客：https://blog.csdn.net/lhy2014
-3、刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：  
+1、我的github项目介绍：https://liuhuanyong.github.io  
+2、我的csdn博客：https://blog.csdn.net/lhy2014  
+3、刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
